@@ -1,6 +1,9 @@
 
 # Code Editor Application
 
+
+[Link for Live Demo](https://code-editor-task.netlify.app/)
+
 A simple web-based code editor with syntax highlighting for Python, JavaScript, and Java using React and Prism.js.
 
 ## Installation
